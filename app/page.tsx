@@ -1,9 +1,9 @@
-import Skills from "../components/main/Skills";
-import Hero from "../components/main/Hero";
-import Encryption from "../components/main/Encryption";
-import Projects from "../components/main/Projects";
-import Researches from "../components/main/Researches";
-import Footer from "../components/main/Footer";
+import Skills from "@/components/main/Skills";
+import Hero from "@/components/main/Hero";
+import Encryption from "@/components/main/Encryption";
+import Projects from "@/components/main/Projects";
+import Researches from "@/components/main/Researches";
+import Footer from "@/components/main/Footer";
 
 export default function Home() {
     return (

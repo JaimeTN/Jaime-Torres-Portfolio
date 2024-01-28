@@ -6,7 +6,7 @@ import {
     slideInFromLeft,
     slideInFromRight,
     slideInFromTop,
-} from "../../utils/motion";
+} from "@/utils/motion";
 import { SparklesIcon } from "@heroicons/react/16/solid";
 
 const HeroContent = () => {
@@ -56,7 +56,7 @@ const HeroContent = () => {
                 className="w-full h-full flex justify-center items-center"
             >
                 <img
-                    src="./mainIconsdark.svg"
+                    src="/mainIconsdark.svg"
                     alt="work icons"
                     height={650}
                     width={650}

@@ -1,4 +1,4 @@
-import { Socials } from "../../constants";
+import { Socials } from "@/constants";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
@@ -12,7 +12,7 @@ const NavBar = () => {
                     className="h-auto w-auto flex flex-row items-center"
                 >
                     <Image
-                        src="./ALOGO.jpeg"
+                        src="/ALOGO.jpeg"
                         alt="logo"
                         width={70}
                         height={70}
