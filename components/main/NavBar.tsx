@@ -12,7 +12,7 @@ const NavBar = () => {
                     className="h-auto w-auto flex flex-row items-center"
                 >
                     <Image
-                        src="./ALOGO.png"
+                        src="./ALOGO.jpeg"
                         alt="logo"
                         width={70}
                         height={70}
